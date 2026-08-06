@@ -2,7 +2,7 @@
 
 Learn how Work IQ helps agents understand the people, projects, and information that matter most in your organization.
 
-[![Episode 2 video](../images/ep1.png)](https://...)
+[![Episode 2 video](images/ep1.png)](https://...)
 
 📅 **August 25, 2026 at 9am PDT** 
 
@@ -28,13 +28,13 @@ If you ask Work IQ, "What did my manager email me about this week?", it doesn't 
 It actually tells you: "Priya sent 3 emails about the Q3 budget review — she needs your headcount numbers by Friday, and she moved the team sync to Thursday at 2pm."
 And it links straight back to those emails in Outlook, so I can verify it myself.
 
-![grounded answers](../images/workiq-grounding.png)
+![grounded answers](images/workiq-grounding.png)
 
 Work IQ supports three protocols to interact: 
 
-- **A2A** — Agent to Agent for multi-agent orchestration
-- **MCP** - Agent to Tool, using MCP, where Work IQ acts as a plug-in capability
-- **REST** - Human to Agent via REST for user-facing apps
+- **A2A** — **Agent to Agent** for multi-agent orchestration
+- **MCP** - **Agent to Tool**, using MCP, where Work IQ acts as a plug-in capability
+- **REST** - **Human to Agent** via REST for user-facing apps
 
 
 

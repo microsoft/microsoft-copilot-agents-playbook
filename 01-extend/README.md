@@ -44,7 +44,7 @@ Skills are:
 
 ### Demos & Code samples
 
-- Fun demo: [Kitty-Explain Skill]()
+- Fun demo: [Kitty-Explain Skill](kitty-explain-demo/README.md)
 - Practical demo: [TBD]()
 
 ## 🔗 Learn More
