@@ -2,9 +2,9 @@
 
 Discover how Skills can extend Declarative Agents with new capabilities, actions, and knowledge tailored to your business scenarios. 
 
-[![Episode 1 video](../images/ep1.png)](https://...)
+[![Episode 1 video](images/yt-thumb-01.png)](https://...)
 
-📅 **August 18, 2026 at 9am PDT** 
+📅 Video will be available after **August 18, 2026** 
 
 ## 👁️ Overview - What are Skills?
 

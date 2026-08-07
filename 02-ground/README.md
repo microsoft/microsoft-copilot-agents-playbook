@@ -2,9 +2,10 @@
 
 Learn how Work IQ helps agents understand the people, projects, and information that matter most in your organization.
 
-[![Episode 2 video](images/ep1.png)](https://...)
+[![Episode 2 video](images/yt-thumb-02.png)](https://...)
 
-📅 **August 25, 2026 at 9am PDT** 
+📅 Video will be available after **August 25, 2026** 
+
 
 ## 👁️ Overview - What is Work IQ?
 
