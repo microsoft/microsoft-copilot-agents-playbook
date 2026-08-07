@@ -6,41 +6,46 @@ Discover how Skills can extend Declarative Agents with new capabilities, actions
 
 📅 Video will be available after **August 18, 2026** 
 
-## 👁️ Overview - What are Skills?
+## 🤖 Quick summary - What are Declarative Agents?
 
-Skills are modular, reusable packages of instructions and resources that give agents specialized domain expertise and repeatable workflows. Agents dynamically load Skills only when needed so you can save some tokens!
+- **Declarative Agent** is essentially a specialized version of Microsoft 365 Copilot that uses M365 Copilot as its brain (model) and orchestrator. It inherits Microsoft 365 compliance, Responsible AI, and security standards.
+- Great when you don't need complex multi-agent workflows, or autonomous behavior, and want to ship fast.
+- Agent components are:
+  - **Instructions** - Agent personality and behavior
+  - **Knowledge** - What agent knows
+  - **Actions/MCP** - What agent can call
+  - **Skills** - How agent performs specialized workflows
+
+## 👁️ Skills Overview - What are Skills?
+
+Skills are modular, reusable packages of instructions and resources that give agents specialized domain expertise and repeatable workflows. Agents dynamically load Skills only when needed. 
+
 A Skill is just a folder containing a SKILL.md file (instructions in plain markdown, with YAML metadata up top) plus optional scripts, templates, or reference files.
 
 ### Skills in Microsoft 365
 
 In the world of M365, Skills as one of the capabilities of Declarative Agents.
+
 A Declarative Agent can have one or more Skills, and each Skill can contain instructions, scripts, references, and assets. 
-Skills are:
 
-- Progressive Disclosure - Only minimal metadata (YAML) is loaded initially. Full instructions (in skill.md) load later. If the instructions reference other files (a script, a template, a reference doc), those get pulled in only when actually needed, not preloaded.
-- Reusable workflow packaging - Skills become reusable building blocks. 
-- Executable code - Skills can contain scripts and automation
+## Agents instructions vs. Skills
+
+| Agent instructions | Skills |
+| --- | --- |
+| Loaded at the start of every conversation, no matter the task | Pulled in only when the current task matches what they cover |
+| Define core behavior, tone, and boundaries | Hold detailed, specialized procedures and domain knowledge |
+| Kept short and general — they apply to everything | Can be as long and deep as the task needs |
 
 
-### What are Declarative Agents? - Quick summary
+## What can you do with Skills? - Use-cases
 
-- Declarative Agent is essentially a specialized version of Microsoft 365 Copilot that uses M365 Copilot as its brain (model) and orchestrator. It inherits Microsoft 365 compliance, RAI, and security standards.
-- Great when you don't need complex multi-agent workflows, or autonomous behavior, and want to ship fast.
-- Agent components are:
-  - Instructions - Agent personality and behavior
-  - Knowledge - What agent knows
-  - Actions/MCP - What agent can call
-  - Skills - How agent performs specialized workflows
-
-### What can you do with Skills? - Use-cases
-
-- Convert docs to markdown
 - Format content nicely
-- Create branded deck or letterhead
+- Create branded deck or letterhead 
+- Load policy and extra rules (e.g. expense policy, contract review)
 
 ## 🤿 Deep Dive
 
-- [More with Skills in Declarative Agents]()
+- [Add Skills to Declarative Agents](skills-DA.md)
 
 ### Demos & Code samples
 
