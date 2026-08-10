@@ -31,20 +31,29 @@ And it links straight back to those emails in Outlook, so I can verify it myself
 
 ![grounded answers](images/workiq-grounding.png)
 
+### Protocols
+
 Work IQ supports three protocols to interact: 
 
 - **A2A** — **Agent to Agent** for multi-agent orchestration
 - **MCP** - **Agent to Tool**, using MCP, where Work IQ acts as a plug-in capability
 - **REST** - **Human to Agent** via REST for user-facing apps
 
+![Work IQ protocols](images/workiq-protocols.png)
 
+### Tools
 
+**Command Line tools:**
+- Work IQ CLI
+- GitHub Copilot CLI with Work IQ plugin
 
+**Developer tool:**
+- Work IQ Dev Tool ("WIQD") - CLI & UI, provides a single end-to-end lifecycle 
 
 
 ## 🤿 Deep Dive
 
-- [More with Work IQ in Declarative Agents]()
+- [Diving deeper with Work IQ in Declarative Agents](workiq.md)
 
 ### Demos & Code samples
 
@@ -54,3 +63,4 @@ Work IQ supports three protocols to interact:
 
 - 📖 [Work IQ Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/)
 - 🧪 [Copilot Developer Camp - Build with Work IQ](https://microsoft.github.io/copilot-camp/pages/work-iq/)
+- ⚙️ [Work IQ Dev Tool Docs](https://microsoft.github.io/wiqd/)
