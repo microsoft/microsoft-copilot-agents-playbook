@@ -1,5 +1,7 @@
 # Add Skills to Declarative Agents
 
+
+
 ## Skills structure
 
 Every skill is a folder with exactly one SKILL.md at its root.

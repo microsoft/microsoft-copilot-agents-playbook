@@ -28,7 +28,13 @@ In the world of M365, Skills as one of the capabilities of Declarative Agents.
 
 A Declarative Agent can have one or more Skills, and each Skill can contain instructions, scripts, references, and assets. 
 
-## Agents instructions vs. Skills
+### What can you do with Skills? - Use-cases
+
+- Format content nicely
+- Create branded deck or letterhead 
+- Load policy and extra rules (e.g. expense policy, contract review)
+
+### Agents instructions vs. Skills
 
 | Agent instructions | Skills |
 | --- | --- |
@@ -37,19 +43,13 @@ A Declarative Agent can have one or more Skills, and each Skill can contain inst
 | Kept short and general — they apply to everything | Can be as long and deep as the task needs |
 
 
-## What can you do with Skills? - Use-cases
-
-- Format content nicely
-- Create branded deck or letterhead 
-- Load policy and extra rules (e.g. expense policy, contract review)
-
-## 🤿 Deep Dive
+## 🤿 How to create Skills?
 
 - [Add Skills to Declarative Agents](skills-DA.md)
 
-### Demos & Code samples
+## 💻 Demos & Code samples
 
-- Fun demo: [Kitty-Explain Skill](kitty-explain-demo/README.md)
+- Fun demo: [Kitty-Explain Skill](demo-kitty-explain/README.md)
 - Practical demo: [TBD]()
 
 ## 🔗 Learn More
