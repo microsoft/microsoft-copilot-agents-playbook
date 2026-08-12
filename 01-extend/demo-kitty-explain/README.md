@@ -2,8 +2,10 @@
 
 **Kitty Explain** is a skill that generates a "Kitty Explain" meme-style cat visual explainer for summarized content. 
 
+![Kitty explain](../images/screenshot-skill.png)
+
 ## 💎 Demo:
-[![Demo video (To be added...)](images/demo-thumbnail.png)](https://...)
+[📺 Watch the demo on YouTube](https://youtu.be/173fx_0X7gg)
 
 Skills are reusable packages of instructions and resources. So, **Kitty Explain** skill can be used with any agents too, especially it works well with agents that summarize some content from uploaded documents, URLs of articles, or concepts. 
 
@@ -77,3 +79,4 @@ Either the **Agent Builder** instruction field, or in the `instruction.text` if 
 ```
 
 Modify your agent instruction to make it compatible with the skill, if you need.
+
