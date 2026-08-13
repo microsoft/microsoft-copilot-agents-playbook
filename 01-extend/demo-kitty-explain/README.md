@@ -1,15 +1,15 @@
 # 🐱 Skill example: Kitty Explain
 
-**Kitty Explain** is a skill that generates a "Kitty Explain" meme-style cat visual explainer for summarized content. 
+**Kitty Explain** is a skill that generates a "Kitty Explain" meme-style cat visual explainer that makes complex ideas feel more approachable.
 
 ![Kitty explain](../images/screenshot-skill.png)
 
 ## 💎 Demo:
 [📺 Watch the demo on YouTube](https://youtu.be/173fx_0X7gg)
 
-Skills are reusable packages of instructions and resources. So, **Kitty Explain** skill can be used with any agents too, especially it works well with agents that summarize some content from uploaded documents, URLs of articles, or concepts. 
+In this demo, the skill is used with the SimpleLearn agent, which uses Microsoft Learn documentation to summarize complex topics and explain them in simple language.
 
-In this demo, the skill is used in two different agents, SimpleLearn agent, which knows everything from Microsoft Learn docs (built using **M365 Agents Toolkit**), and Explain-me agent, which can summerize and explain a given content (built using **Agent Builder**).
+Because skills are reusable packages of instructions and resources, you can also use the **Kitty Explain** skill with other agents whenever it suits the use case. Let's say I have another agent called *Explain-to-Me*, who explains content from a given URL. This skill works well with the agent.
 
 ![skill](../images/skill.png)
 
@@ -36,11 +36,11 @@ Basically, you can just dump this folder into your agent!
 Fisrt, compress the entire `kitty-explain` folder that include SKILL.md and references to create `kitty-explain.zip`.
 
 1. Go to https://m365.cloud.microsoft/ and from the left menu, click **Agents** and create a new agent.
-1. Create a simple agent that summarizes a given content. Or start with a template. Choose **Document Summary** or **Expert Answers**.
-1. Add (or modify) an instruction. Then, include a "Use skill" instruction. (See below)
-1. Add a sample prompt under **Suggested prompts**: Title: "Kitty Explain visual" and Message should be something similar to "Explain [concept] by cats.". Make this fit to what the agent does.
+1. Choose your agent or create a simple agent that summarizes a given content. 
+1. In the agent instruction, include a "Use skill" instruction (See below)
+1. Add a sample prompt under **Suggested prompts**: Title: "Kitty Explain visual" and Message should be something similar to "Explain [content] by cats.". Make this fit to what the agent does.
 1. Under **Skills**, upload a zipped **kitty-explain** skill.
-1. Voilà!
+1. Voilà! Test your agent now!
 
 ![Add skill in Agent Builder](../images/ab-add-skill.png)
 
