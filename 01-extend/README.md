@@ -8,7 +8,7 @@ Discover how Skills can extend Declarative Agents with new capabilities, actions
 
 ## 🤖 Quick summary - What are Declarative Agents?
 
-- **Declarative Agent** is essentially a specialized version of Microsoft 365 Copilot that uses M365 Copilot as its brain (model) and orchestrator. It inherits Microsoft 365 compliance, Responsible AI, and security standards.
+- **Declarative Agent** is essentially a specialized version of Microsoft Copilot that uses the Copilot as its brain (model) and orchestrator. It inherits Microsoft 365 compliance, Responsible AI, and security standards.
 - Great when you don't need complex multi-agent workflows, or autonomous behavior, and want to ship fast.
 - Agent components are:
   - **Instructions** - Agent personality and behavior
@@ -23,6 +23,9 @@ Skills are modular, reusable packages of instructions and resources that give ag
 A Skill is just a folder containing a SKILL.md file (instructions in plain markdown, with YAML metadata up top) plus optional scripts, templates, or reference files.
 
 ### Skills in Microsoft 365
+
+> [!IMPORTANT]
+> Skills will be available on Microsoft Copilot in coming weeks, so stay tuned!
 
 In the world of M365, Skills as one of the capabilities of Declarative Agents.
 

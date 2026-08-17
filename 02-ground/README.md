@@ -50,11 +50,6 @@ Work IQ supports three protocols to interact:
 **Developer tool:**
 - Work IQ Dev Tool ("WIQD") - CLI & UI, provides a single end-to-end lifecycle 
 
-
-## 🤿 Deep Dive
-
-- [Diving deeper with Work IQ in Declarative Agents](workiq.md)
-
 ### Demos & Code samples
 
 - Demo: [TBD]()
@@ -63,4 +58,7 @@ Work IQ supports three protocols to interact:
 
 - 📖 [Work IQ Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/)
 - 🧪 [Copilot Developer Camp - Build with Work IQ](https://microsoft.github.io/copilot-camp/pages/work-iq/)
+- 💻 [Work IQ samples](https://github.com/microsoft/work-iq-samples)
 - ⚙️ [Work IQ Dev Tool Docs](https://microsoft.github.io/wiqd/)
+- 🍳 [Work IQ Cookbook](https://aka.ms/wiqd/cookbooks)
+

@@ -6,15 +6,7 @@ Go beyond chat by connecting MCP Apps to Declarative Agents and delivering rich,
 
 📅 Video will be available after **September 1, 2026** 
 
-## 👁️ Overview 
 
-## 🤿 Deep Dive
-
-- []()
-
-### Demos & Code samples
-
-- Demo: [Demo title]()
 
 ## 🔗 Learn More
 

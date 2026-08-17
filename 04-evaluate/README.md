@@ -6,16 +6,10 @@ Explore a developer-first approach to building and evaluating agents using M365 
 
 📅 Video will be available after **September 8, 2026** 
 
-## 👁️ Overview 
 
-## 🤿 Deep Dive
-
-- []()
-
-### Demos & Code samples
-
-- Demo: [Demo title]()
 
 ## 🔗 Learn More
 
 - 📖 [Agent evaluation overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/evaluation-overview)
+- ⚙️ [Work IQ Dev Tool Docs](https://microsoft.github.io/wiqd/)
+- 🍳 [Work IQ Cookbook](https://aka.ms/wiqd/cookbooks)
