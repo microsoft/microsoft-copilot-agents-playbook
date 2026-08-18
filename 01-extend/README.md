@@ -2,9 +2,9 @@
 
 Discover how Skills can extend Declarative Agents with new capabilities, actions, and knowledge tailored to your business scenarios. 
 
-[![Episode 1 video](images/yt-thumb-01.png)](https://...)
+[![Episode 1 video](images/yt-thumb-01.png)](https://www.youtube.com/watch?v=JKeNgEYv63k)
 
-📅 Video will be available after **August 18, 2026** 
+*Livecasted on August 18, 2026* - [Watch it on YouTube](https://www.youtube.com/watch?v=JKeNgEYv63k)
 
 ## 🤖 Quick summary - What are Declarative Agents?
 
@@ -58,5 +58,5 @@ A Declarative Agent can have one or more Skills, and each Skill can contain inst
 ## 🔗 Learn More
 
 - 📖 [Declarative Agents Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/overview-declarative-agent)
-- 📖 [Create Skills for Declarative Agents](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/...) - TBD
+- 📖 Create Skills for Declarative Agents - Learn doc will be available when the feature goes GA!
 - 🧪 [Copilot Developer Camp - Build Declarative Agent](https://microsoft.github.io/copilot-camp/pages/extend-m365-copilot/)
