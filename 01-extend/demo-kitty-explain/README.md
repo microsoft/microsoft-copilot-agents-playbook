@@ -27,6 +27,9 @@ Because skills are reusable packages of instructions and resources, you can also
 
 ## 💪 How to use the skill in an agent
 
+> [!IMPORTANT]
+> Skills will be available on Microsoft Copilot in coming weeks, so stay tuned!
+
 Basically, you can just dump this folder into your agent!
 
 - 📂 [kitty-explain](kitty-explain/)
