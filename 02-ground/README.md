@@ -41,24 +41,51 @@ Work IQ supports three protocols to interact:
 
 ![Work IQ protocols](images/workiq-protocols.png)
 
-### Tools
+###  Command Line tools
 
-**Command Line tools:**
 - Work IQ CLI
 - GitHub Copilot CLI with Work IQ plugin
 
-**Developer tool:**
-- Work IQ Dev Tool ("WIQD") - CLI & UI, provides a single end-to-end lifecycle 
+In GitHub Copilot CLI, ask with natural language:
 
-### Demos & Code samples
+```txt
+Find the most recent PowerPoint files that I modified
+```
+
+## Building Agents with WIQD
+
+You can build Work IQ-enabled agents using **Work IQ Developer Tool**, or you can call it WIQD (pronouced "wicked"), which is a unified toolset that helps you build, validate, publish, and manage Microsoft 365 Copilot agents and extensions from a single workflow. 
+
+### Examples with WIQD in GitHub Copilot CLI
+
+You can build an agent using natural language when using WIQD within GitHub Copilot.
+
+```bash
+> copilot --agent wiqd:wiqd
+```
+
+Then, in GitHub Copilot CLI:
+
+**Create an agent**
+```txt
+Create a new declarative agent called Photobooth that accepts user-uploaded images and creates photobooth-style image responses. Apply creative filters such as black-and-white, sepia, pop-art, and sketch…
+```
+
+**Provision**
+```txt
+Open the provisioned agent in Microsoft 365 Copilot with wiqd.
+```
+
+
+## Demos & Code samples
 
 - Demo: [TBD]()
 
 ## 🔗 Learn More
 
-- 📖 [Work IQ Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/)
-- 🧪 [Copilot Developer Camp - Build with Work IQ](https://microsoft.github.io/copilot-camp/pages/work-iq/)
-- 💻 [Work IQ samples](https://github.com/microsoft/work-iq-samples)
+- 📖 Microsoft Learn doc - [Work IQ Overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/)
+- 🧪 Copilot Developer Camp - [Build with Work IQ](https://microsoft.github.io/copilot-camp/pages/work-iq/)
+- 💻 [Work IQ samples](https://github.com/microsoft/work-iq-samples) on GitHub
 - ⚙️ [Work IQ Dev Tool Docs](https://microsoft.github.io/wiqd/)
 - 🍳 [Work IQ Cookbook](https://aka.ms/wiqd/cookbooks)
 
