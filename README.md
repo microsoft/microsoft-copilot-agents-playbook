@@ -13,7 +13,13 @@ Whether you're just getting started or already building on Microsoft 365, you'll
 - **Extend** agents with Skills and actions 
 - **Ground** agents with enterprise context using WorkIQ 
 - **Connect** MCP apps for interactive user experiences 
-- **Evaluate** and improve agent quality with Microsoft 365 Copilot Evals 
+- **Evaluate** and improve agent quality with Microsoft 365 Copilot Evals
+
+### 🗂️ Prerequisites
+
+- Microsoft 365 developer account with Copilot access
+- Global Admin access in your M365 tenant, required to configure tenant-wide app and policy settings
+- Basic knowledge on how to build Declarative agents for Microsoft Copilot with VS Code with Microsoft 365 Agents Toolkit
 
 
 ## Episodes
