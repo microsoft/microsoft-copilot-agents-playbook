@@ -73,13 +73,14 @@ Create a new declarative agent called Photobooth that accepts user-uploaded imag
 
 **Provision**
 ```txt
-Open the provisioned agent in Microsoft 365 Copilot with wiqd.
+Provision the agent to the dev environment with wiqd.
 ```
 
+This will give you the URL for Copilot Chat so you can test the agent on the client!
 
-## Demos & Code samples
+## 🐱 Demos & Code samples ☕️
 
-- Demo: [TBD]()
+- Demo: [WhiskerWorks Cat Café]()
 
 ## 🔗 Learn More
 
