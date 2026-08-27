@@ -4,7 +4,7 @@ Learn how Work IQ helps agents understand the people, projects, and information 
 
 [![Episode 2 video](images/yt-thumb-02.png)](https://www.youtube.com/watch?v=eEXW-sUAnSs)
 
-Livecasted on August 25, 2026 - Watch it on YouTube
+Livecasted on August 25, 2026 - [Watch it on YouTube](https://www.youtube.com/watch?v=eEXW-sUAnSs)
 
 
 ## 👁️ Overview - What is Work IQ?
