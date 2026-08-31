@@ -31,6 +31,14 @@ Traditional AI interactions often result in long text responses that users must 
 - Secure interaction using Entra ID SSO or OAuth 2.1 authentication.
 In short, MCP Apps make conversations actionable.
 
+Use MCP Apps when you need:
+- 📊 Interactive analytics and dashboards
+- 🗺️ Complex data exploration
+- 📝 Large configuration forms
+- 🎥 Rich media viewers
+- 📈 Real-time monitoring
+- ✅ Multi-step workflows and approvals
+
 ## How MCP Apps Work
 
 The MCP Apps runtime follows a simple flow:
