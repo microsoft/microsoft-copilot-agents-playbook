@@ -4,9 +4,9 @@ Go beyond chat by connecting MCP Apps to Declarative Agents and delivering rich,
 
 This episode explores how MCP Apps transform Copilot from a conversational interface into an interactive workspace where users can view, edit, review, and confirm actions without switching between applications. MCP Apps allow developers to bring rich UI experiences into Copilot while continuing to use the open MCP standard. 
 
-[![Episode 3 video](images/yt-thumb-03.png)](https://...)
+[![Episode 3 video](images/yt-thumb-03.png)]([https://...](https://www.youtube.com/watch?v=Gvp6yQFVySw))
 
-📅 Video will be available after **September 1, 2026** 
+Livecasted on September 1, 2026 - [Watch it on YouTube](https://www.youtube.com/watch?v=Gvp6yQFVySw)
 
 ## What Are MCP Apps?
 An MCP App is a backward-compatible extension to the Model Context Protocol that enables MCP servers to provide interactive HTML-based user interfaces in addition to data and tool responses. 
@@ -80,8 +80,13 @@ Applications must:
 - Configure required OAuth and SSO redirect URLs.
 - Support approved API endpoints.
 
+## Build an MCP App with Interactive Widgets
 
-## 🔗 Learn More
+⭐️ Instruction on [Copilot Developer Camp](https://microsoft.github.io/copilot-camp/pages/extend-m365-copilot/11-mcp-app/)!
 
-- 🧪 [Copilot Developer Camp - Build an MCP App with Interactive Widgets](aka.ms/mcp-app-lab)
+---
+
+## 🔗 Links
+
+- 🧪 [Copilot Developer Camp - Build an MCP App with Interactive Widgets]([aka.ms/mcp-app-lab](https://microsoft.github.io/copilot-camp/pages/extend-m365-copilot/11-mcp-app/))
 - 🧫 [MCP App Samples](aka.ms/mcp-app-samples)
