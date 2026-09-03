@@ -80,7 +80,9 @@ This will give you the URL for Copilot Chat so you can test the agent on the cli
 
 ## 🐱 Demo: WhiskerWorks Cat Café ☕️
 
-- [WhiskerWorks Cat Café](demo-whiskerworks)
+⭐️ [**WhiskerWorks Cat Café Walkthrough**](demo-whiskerworks)
+
+![WhiskerWorks Cat Café image](images/whiskerworks-cafe.jpg)
 
 ## 🔗 Learn More
 
