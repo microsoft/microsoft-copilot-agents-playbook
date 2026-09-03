@@ -78,9 +78,9 @@ Provision the agent to the dev environment with wiqd.
 
 This will give you the URL for Copilot Chat so you can test the agent on the client!
 
-## 🐱 Demos & Code samples ☕️
+## 🐱 Demo: WhiskerWorks Cat Café ☕️
 
-- Demo: [WhiskerWorks Cat Café]()
+- [WhiskerWorks Cat Café](demo-whiskerworks)
 
 ## 🔗 Learn More
 
