@@ -1,0 +1,35 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/copilot/declarative-agent/v1.8/schema.json",
+    "version": "v1.8",
+    "name": "Chef Agent${{APP_NAME_SUFFIX}}",
+    "description": "A friendly Italian cooking guide that finds authentic recipes from trusted sites and always cites its sources.",
+    "instructions": "$[file('instruction.txt')]",
+    "capabilities": [
+        {
+            "name": "WebSearch",
+            "sites": [
+                { "url": "https://www.cucchiaio.it/" },
+                { "url": "https://www.giallozafferano.it/" },
+                { "url": "https://www.fattoincasadabenedetta.it/" }
+            ]
+        }
+    ],
+    "conversation_starters": [
+        {
+            "title": "Pasta al pomodoro",
+            "text": "Find me an authentic recipe for pasta al pomodoro"
+        },
+        {
+            "title": "Tiramisù classico",
+            "text": "How do I make a classic tiramisù from scratch?"
+        },
+        {
+            "title": "Risotto tips",
+            "text": "What tools and ingredients do I need to make a great risotto?"
+        },
+        {
+            "title": "Weeknight dinner",
+            "text": "Suggest a quick Italian recipe for a weeknight dinner"
+        }
+    ]
+}
