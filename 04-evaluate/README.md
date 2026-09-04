@@ -6,7 +6,9 @@ Explore a developer-first approach to building and evaluating agents using M365 
 
 📅 Video will be available after **September 8, 2026** 
 
+## Demo
 
+⭐️ [**Chef Agent**](aka.ms/mcp-app-samples)
 
 ## 🔗 Learn More
 

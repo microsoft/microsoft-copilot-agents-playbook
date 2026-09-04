@@ -17,9 +17,15 @@ Whether you're just getting started or already building on Microsoft 365, you'll
 
 ### 🗂️ Prerequisites
 
-- Microsoft 365 developer account with Copilot access
+- Microsoft 365 Developer Program sandbox subscription and Microsoft 365 Copilot license
 - Global Admin access in your M365 tenant, required to configure tenant-wide app and policy settings
-- Basic knowledge on how to build Declarative agents for Microsoft Copilot with VS Code with Microsoft 365 Agents Toolkit
+
+Please refer [Set up your development environment for Microsoft 365 Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/prerequisites#prerequisites) on Learn documentation.
+
+**Microsoft 365 Agent Toolkit Requirement:**
+
+- [Node.js](https://nodejs.org/), supported versions: 22
+- [Microsoft 365 Agents Toolkit Visual Studio Code Extension](https://aka.ms/teams-toolkit) version 5.0.0 and higher or [Microsoft 365 Agents Toolkit CLI](https://aka.ms/teamsfx-toolkit-cli)
 
 
 ## Episodes
