@@ -22,7 +22,7 @@ Create → Edit → Validate → Provision → Package → Publish → Monitor
 
 You can build by using **WIQD**, and here's the generated code:
 
-🧑‍🍳 [**Chef Agent**](aka.ms/mcp-app-samples) 
+🧑‍🍳 [**Chef Agent**](demo-chef-agent/) 
 
 ![MCP App UI](images/chef-agent.png)
 
