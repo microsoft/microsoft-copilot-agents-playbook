@@ -6,14 +6,41 @@ Explore a developer-first approach to building and evaluating agents using M365 
 
 Livecasted on September 8, 2026 - [Watch it on YouTube](https://www.youtube.com/watch?v=TrUFY4P5s-c)
 
-## Evaluate Microsoft 365 Copilot Agents with Work IQ Developer Tool
+## Evaluate with Work IQ Developer Tool
+
+Without evaluation, you can't reliably measure whether changes to your agent improve or degrade quality. 
 
 *Work IQ Developer Tools (WIQD)* is a toolset designed to help developers build and manage plugins and AI agents for Microsoft 365 Copilot within a single, unified lifecycle:
 
 ```text
-Create → Edit → Validate → Provision → Package → Publish → Monitor
-                   ↑                                          │
-                   └──────────────── Iterate ─────────────────┘         
+create ─▶ edit ─▶ validate ─▶ provision ─▶ package ─▶ publish ─▶ monitor
+                     ▲                                              │
+                     └──────────────── iterate ─────────────────────┘   
+```
+
+### What You Can Evaluate with WIQD
+
+* 🎯 Relevance
+* 🧩 Coherence
+* ⚓ Groundedness / Similarity
+* 📚 Citations
+* 🛠️ Tool-call accuracy
+* 🔍 Retrieval evaluators
+* 🌓 Partial match
+
+### Trustworthy Evaluation
+
+* 🧪 Test case
+* 📦 Test set
+* 👤 Prompts like users
+* 📏 Deterministic graders
+* 🧠 Semantic graders
+* ⚖️ Balanced coverage
+
+### Eval Loop
+
+```text
+Define → Run → Analyze → Improve → Compare
 ```
 
 ## Demo
