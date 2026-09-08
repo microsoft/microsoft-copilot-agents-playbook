@@ -8,7 +8,7 @@ Explore a developer-first approach to building and evaluating agents using M365 
 
 ## Demo
 
-⭐️ [**Chef Agent**](aka.ms/mcp-app-samples)
+⭐️ [**Chef Agent**](https://aka.ms/mcp-app-samples)
 
 ## 🔗 Learn More
 
