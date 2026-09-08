@@ -51,7 +51,7 @@ The MCP Apps runtime follows a simple flow:
 
 ## Interactive UI in Copilot in Action
 
-⭐️ Use-cases and examples: [aka.ms/mcp-app-samples](aka.ms/mcp-app-samples)
+⭐️ Use-cases and examples: [aka.ms/mcp-app-samples](https://aka.ms/mcp-app-samples)
 
 ## Microsoft 365 Copilot Integration Requirements
 
