@@ -2,7 +2,8 @@
 
 **Kitty Explain** is a skill that generates a "Kitty Explain" meme-style cat visual explainer that makes complex ideas feel more approachable.
 
-![Kitty explain](../images/screenshot-skill.png)
+![Kitty explain example output 1](../images/screenshot-skill.png)
+![Kitty explain example output 2](../images/screenshot-skill2.png)
 
 ## 💎 Demo:
 [📺 Watch the demo on YouTube](https://youtu.be/173fx_0X7gg)
