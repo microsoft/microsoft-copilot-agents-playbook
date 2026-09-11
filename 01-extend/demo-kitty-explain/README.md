@@ -29,7 +29,7 @@ Because skills are reusable packages of instructions and resources, you can also
 ## 💪 How to use the skill in an agent
 
 > [!IMPORTANT]
-> Skills will be available on Microsoft Copilot in coming weeks, so stay tuned!
+> Skills are currently in public preview, and will be available for everybody on Microsoft Copilot in coming weeks, so stay tuned!
 
 Basically, you can just dump this folder into your agent!
 
@@ -64,6 +64,31 @@ If you already have built a declarative agent using [M365 Agents Toolkit](https:
        └── 📂 kitty-explain/
            ├── 📄 SKILL.md
            └── 📂 references/
+```
+
+In the unified `manifest.json`, specify the skill path:
+
+```json
+"agentSkills": [
+    {
+      "folder": "skills/kitty-explain"
+    }
+  ],
+```
+
+In `declarativeAgent.json`, it's a good idea to add some custom `converastion starter`. For example,
+
+```json
+"conversation_starters": [
+    {
+      "text": "Explain [concept] in simple language",
+      "title": "Explain the technology"
+    },
+    {
+      "text": "Explain [concept] by cats",
+      "title": "Kitty Explain visual"
+    }
+  ],
 ```
 
 Then, add the "Use Skill" instruction (see below) in `instruction.txt`.
