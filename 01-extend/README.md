@@ -50,10 +50,10 @@ A Declarative Agent can have one or more Skills, and each Skill can contain inst
 
 - [Add Skills to Declarative Agents](skills-DA.md)
 
-## 💻 Demos & Code samples
+## 😃 Super Fun Demos & Code samples
 
-- Fun demo: [Kitty-Explain Skill](demo-kitty-explain/README.md)
-- Practical demo: [TBD]()
+- 🐱 Explain complex topics with cats!: [Kitty-Explain Skill](demo-kitty-explain/README.md)
+- 🎞️ Create fun retro style photobooth strip!: [TBD](https://github.com/pnp/copilot-prompts/tree/main/samples/skills/photo-booth)
 
 ## 🔗 Learn More
 
