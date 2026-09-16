@@ -53,7 +53,7 @@ A Declarative Agent can have one or more Skills, and each Skill can contain inst
 ## 😃 Super Fun Demos & Code samples
 
 - 🐱 Explain complex topics with cats!: [Kitty-Explain Skill](demo-kitty-explain/README.md)
-- 🎞️ Create fun retro style photobooth strip!: [TBD](https://github.com/pnp/copilot-prompts/tree/main/samples/skills/photo-booth)
+- 🎞️ Create fun retro style photobooth strip!: [Photo Booth Skill for Microsoft 365 Copilot](https://github.com/pnp/copilot-prompts/tree/main/samples/skills/photo-booth)
 
 ## 🔗 Learn More
 
